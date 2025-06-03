@@ -2,7 +2,6 @@
 
 Noirlang Plugin for JetBrains IDEs! This project aims to bring first-class development support for Noirlang directly into  JetBrains IDEs, such as RustRover, CLion, WebStorm, PyCharm, and more.
 
-
 ## Features (Planned/In Progress)
 Our goal is to provide a comprehensive set of features that make Noirlang development in JetBrains IDEs a breeze.
 Here's what we envision:
